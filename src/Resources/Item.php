@@ -37,7 +37,7 @@ class Item extends Resource
      *
      * @var string
      */
-    public string $description;
+    public ?string $description;
 
     /**
      * External reference id for the item.
