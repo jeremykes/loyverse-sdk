@@ -33,7 +33,7 @@ class Item extends Resource
     public string $itemName;
 
     /**
-     * The item description.
+     * The item description. This is a test
      *
      * @var string
      */
